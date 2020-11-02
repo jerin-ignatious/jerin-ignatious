@@ -49,7 +49,7 @@
 ---
 
 [website]: http://jerinignatious.tk
-[hackerrank]: https://www.hackerrank.com/J_Igntious
+[hackerrank]: https://www.hackerrank.com/J_Ignatious
 [codechef]: https://www.codechef.com/users/jerrycool
 [linkedin]: https://www.linkedin.com/in/jerin-ignatious/
 
