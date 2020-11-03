@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jerin
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking forward to collaborate on full stack
+- 👯 I’m looking forward to collaborate on MERN stack
 - 📫 How to reach me: [Portfolio](http://jerinignatious.tk)
 
 ---
