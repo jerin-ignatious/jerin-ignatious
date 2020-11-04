@@ -53,6 +53,9 @@
 [codechef]: https://www.codechef.com/users/jerrycool
 [linkedin]: https://www.linkedin.com/in/jerin-ignatious/
 
+**Find me on**
+[![Linkedin:JerinIgnatious](https://img.shields.io/badge/-JerinIgnatious-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerin-ignatious/)](https://www.linkedin.com/in/jerin-ignatious/)
+[![Twitter:JerinIgnatious](https://img.shields.io/twitter/follow/JerinIgnatious?style=social)](https://twitter.com/IgnatiousJerin)
 <!--
 **jerin-ignatious/jerin-ignatious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
