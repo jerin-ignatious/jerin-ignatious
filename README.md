@@ -36,8 +36,8 @@
 
 ---
 
-<img align="left" alt="Jerin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jerin-ignatious&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="jerin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerin-ignatious&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
+<img align="left" alt="Jerin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jerin-ignatious&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+<img align="left" alt="jerin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerin-ignatious&theme=tokyonight&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
 </br>
 </br>
