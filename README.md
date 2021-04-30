@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jerin
 
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on [useEffect and conditional rendering in React](https://github.com/jerin-ignatious/anime-release-reminder)
+- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on [controlled Inputs](https://github.com/jerin-ignatious/react-advanced-2020)
 - 👯 I’m looking forward to collaborate on MERN stack
 - 📫 How to reach me: [Portfolio](http://jerinignatious.tk)
 
