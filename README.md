@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jerin
 
 - 🌱 I’m currently learning NodeJs
-- 🔭 I’m currently working on [Rest API](https://github.com/jerin-ignatious/REST-API)
+- 🔭 I’m currently working on creating a [Rest API with NodeJs](https://github.com/jerin-ignatious/REST-API)
 - 👯 I’m looking forward to collaborate on MERN stack
 - 📫 How to reach me: [Portfolio](http://jerinignatious.tk)
 
