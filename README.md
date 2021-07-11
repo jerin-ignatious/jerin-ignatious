@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jerin
 
-- 🌱 I’m currently learning ReactJs
-- 🔭 I’m currently working on [controlled Inputs](https://github.com/jerin-ignatious/react-advanced-2020)
+- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working on [Rest API](https://github.com/jerin-ignatious/REST-API)
 - 👯 I’m looking forward to collaborate on MERN stack
 - 📫 How to reach me: [Portfolio](http://jerinignatious.tk)
 
