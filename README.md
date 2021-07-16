@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs
 - 🔭 I’m currently working on creating a [Paginated API](https://github.com/jerin-ignatious/paginated-api-with-nodejs)
 - 👯 I’m looking forward to collaborate on MERN stack
-- 📫 How to reach me: [Portfolio](http://jerinignatious.tk)
+- 📫 Learn more about me: [Portfolio](http://jerinignatious.tk)
 
 ---
 
