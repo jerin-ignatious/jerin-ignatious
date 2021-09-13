@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jerin
 
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning ReactJs
 - 🔭 I’m currently working on [API Pagination](https://github.com/jerin-ignatious/paginated-api-with-nodejs)
 - 👯 I’m looking forward to collaborate on MERN stack
 - 📫 Learn more about me: [Portfolio](http://jerinignatious.tk)
